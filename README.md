@@ -7,7 +7,7 @@ This was a Unity Project completed by Drew Sant, Spencer Warner, Nick Velasquez,
 The purpose of this project was to test our communication efforts, teamwork, coding, and environment set-up skills. The latter was tested a lot. We wanted to embrace our creativity and have fun at the same time.
 
 
-[Software Demo](http://youtube.link.goes.here)
+[Software Demo](https://youtu.be/IzZz0HlLED8)
 
 # Development Environment
 
